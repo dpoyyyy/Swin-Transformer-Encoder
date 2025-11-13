@@ -61,4 +61,4 @@ Danial Farshbaf
 
 ---
 
-## Designed as a bridge between computer vision and temporal intelligence
+Designed as a bridge between computer vision and temporal intelligence
